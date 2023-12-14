@@ -1,0 +1,19 @@
+.header_login{
+    display: flex;
+    flex-direction: column;
+    padding: 3rem 2rem 1rem 2rem; 
+    background: url(/imagens/background_login.png);
+  
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.titulo_login{
+    
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.img_login{
+    text-align: center;
+}
